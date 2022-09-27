@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/svg.dart';
 import 'package:web_shoppfront/constants.dart';
 
 class Body extends StatelessWidget {
@@ -25,10 +26,11 @@ class Body extends StatelessWidget {
             right: 0,
 
             child: Container(
-           margin: const EdgeInsets.symmetric(horizontal:  kDefaultPadding ),
-           height: 54,
-           decoration: BoxDecoration(
-            color: Colors.white,
+              alignment: Alignment.center,
+              margin: const EdgeInsets.symmetric(horizontal:  kDefaultPadding ),
+             height: 54,
+             decoration: BoxDecoration(
+              color: Colors.white,
              borderRadius:BorderRadius.circular(20),
              boxShadow: [BoxShadow(
                offset: Offset (0, 10),
@@ -37,9 +39,24 @@ class Body extends StatelessWidget {
 
              ),],
     ),
-               child: TextField(
-                 decoration: InputDecoration(
-                   hintText: ("Search by chukky derrick")
+               child: Opacity(
+                 opacity: 0.5,
+                 child: Row(
+                   children:<Widget>[
+                     const Expanded(
+                       child: TextField(
+                         decoration: InputDecoration(
+                           hintText: "Search",
+                           hintStyle: TextStyle(
+                             color: Colors.black,
+                           ),
+                           enabledBorder: InputBorder.none,
+                           focusedBorder: InputBorder.none,
+                         ),
+                       ),
+                     ),
+                     SvgPicture.asset("android/assets/icons/search.svg")
+                   ],
                  ),
                ),
 

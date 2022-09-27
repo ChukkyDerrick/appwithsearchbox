@@ -1,49 +1,135 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 230 230" style="enable-background:new 0 0 230 230;" xml:space="preserve">
-<g id="XMLID_104_">
-	<path id="XMLID_105_" d="M95,70h120c8.284,0,15-6.716,15-15s-6.716-15-15-15H95c-8.284,0-15,6.716-15,15S86.716,70,95,70z"/>
-	<path id="XMLID_106_" d="M215,100H95c-8.284,0-15,6.716-15,15s6.716,15,15,15h120c8.284,0,15-6.716,15-15S223.284,100,215,100z"/>
-	<path id="XMLID_107_" d="M215,160H95c-8.284,0-15,6.716-15,15s6.716,15,15,15h120c8.284,0,15-6.716,15-15S223.284,160,215,160z"/>
-	<path id="XMLID_108_" d="M15,160c-3.95,0-7.811,1.6-10.61,4.39C1.6,167.19,0,171.05,0,175c0,3.95,1.6,7.81,4.39,10.61
-		C7.189,188.4,11.05,190,15,190s7.81-1.6,10.609-4.39C28.399,182.81,30,178.95,30,175c0-3.95-1.601-7.81-4.391-10.61
-		C22.81,161.6,18.95,160,15,160z"/>
-	<path id="XMLID_109_" d="M15,100c-3.95,0-7.811,1.6-10.61,4.39C1.6,107.19,0,111.05,0,115c0,3.95,1.6,7.81,4.39,10.61
-		C7.189,128.4,11.05,130,15,130s7.81-1.6,10.609-4.39C28.399,122.81,30,118.95,30,115c0-3.95-1.601-7.81-4.391-10.61
-		C22.81,101.6,18.95,100,15,100z"/>
-	<path id="XMLID_110_" d="M15,40c-3.95,0-7.811,1.6-10.61,4.39C1.6,47.19,0,51.05,0,55c0,3.95,1.6,7.81,4.39,10.61
-		C7.189,68.4,11.05,70,15,70s7.81-1.6,10.609-4.39C28.399,62.81,30,58.95,30,55c0-3.95-1.601-7.81-4.391-10.61
-		C22.81,41.6,18.95,40,15,40z"/>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310"
+   height="259.34375"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <title
+     id="title3842">Hamburger (Menu) Icon</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54"
+     inkscape:cx="358.20459"
+     inkscape:cy="473.54108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5"
+     inkscape:window-width="1378"
+     inkscape:window-height="882"
+     inkscape:window-x="208"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hamburger (Menu) Icon</dc:title>
+        <dc:date>2015-06-29</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Daniel Fowler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>openclipart.org</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en-GB</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>hamburger</rdf:li>
+            <rdf:li>basic</rdf:li>
+            <rdf:li>simple</rdf:li>
+            <rdf:li>black</rdf:li>
+            <rdf:li>white</rdf:li>
+            <rdf:li>lines</rdf:li>
+            <rdf:li>rounded</rdf:li>
+            <rdf:li>open</rdf:li>
+            <rdf:li>close</rdf:li>
+            <rdf:li>norm</rdf:li>
+            <rdf:li>cox</rdf:li>
+            <rdf:li>star</rdf:li>
+            <rdf:li>xerox</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description>A simple and basic hamburger (menu) icon. It originates from Xerox &quot;Star&quot; workstations of the 1980's but is now popular to hide/show menus on mobile devices.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Norm Cox</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(10.015625,-803.03125)">
+    <g
+       id="g3837">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3785-0"
+         d="m 19.668179,1032.694 250.646101,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:49.33635712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3785-0-9"
+         d="m 19.668179,932.694 250.646101,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:49.33635712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3785-0-4"
+         d="m 19.668179,832.694 250.646101,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:49.33635712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
 </svg>
