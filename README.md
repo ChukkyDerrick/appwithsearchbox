@@ -1,4 +1,4 @@
-# web_shoppfront
+# Front view having icon, navbar, search box and header
 
 A new Flutter project
 
