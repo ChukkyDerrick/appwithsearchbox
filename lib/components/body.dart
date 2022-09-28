@@ -12,27 +12,39 @@ class Body extends StatelessWidget {
     height: size.height * 0.2,
         child: Stack(
           children:<Widget>[
-        Container(height: size.height *0.2 - 27,
-          decoration: const BoxDecoration(color: kPrimaryColor,
+          Container(height: size.height *0.2 - 27,
+              decoration: const BoxDecoration(color: kPrimaryColor,
               borderRadius: BorderRadius .only(
               bottomLeft: Radius.circular(36 ),
-          bottomRight: Radius.circular(36 ),
+              bottomRight: Radius.circular(36 ),
         )
     ),
+                child: Row(
+                 children: <Widget>[
+                  Text('L & C Foods',
+                  style: Theme.of(context).textTheme.headline5?.copyWith(
+                  color: Colors.white,
+                    fontWeight: FontWeight.bold,),
+              ),
+                   Spacer(),
+                   Image.asset("android/assets/images/food.png")
+                   
+            ],
+          ),
     ),
-          Positioned(
-            bottom: 0,
-            left: 0,
-            right: 0,
+            Positioned(
+                bottom: 0,
+                left: 0,
+                right: 0,
 
-            child: Container(
-              alignment: Alignment.center,
-              margin: const EdgeInsets.symmetric(horizontal:  kDefaultPadding ),
-             height: 54,
-             decoration: BoxDecoration(
-              color: Colors.white,
-             borderRadius:BorderRadius.circular(20),
-             boxShadow: [BoxShadow(
+               child: Container(
+               alignment: Alignment.center,
+               margin: const EdgeInsets.symmetric(horizontal:  kDefaultPadding ),
+               height: 54,
+               decoration: BoxDecoration(
+               color: Colors.white,
+               borderRadius:BorderRadius.circular(20),
+               boxShadow: [BoxShadow(
                offset: Offset (0, 10),
                blurRadius: 50,
                color: kPrimaryColor.withOpacity(0.23),
